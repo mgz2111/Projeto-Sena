@@ -1,0 +1,36 @@
+.title{
+    text-align: center;
+    font-size: larger;
+
+}
+
+body{
+    background-image: url(img/fundo.jpg);
+}
+
+.bloco {
+    width: 100%;
+    height: 300px;
+    background-color: #e74c3c;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    
+}
+
+.bloco h1 {
+    margin: 0;
+    font-size: 50px;
+}
+
+.bloco p {
+    margin-top: 10px;
+    font-size: 20px;
+    text-justify: auto;
+}
+
+.valores{
+    font-size: 30px;
+    text-align: center;
+}
