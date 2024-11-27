@@ -1,1 +1,3 @@
-# Projeto-Sena
+# Projeto-Sena.
+ Projeto focado em HTML, com objetivo final de divulgar e facilitar o acesso ao Mercado Sena, que está localizado na comunidade do Recanto das Emas. O site conta com três páginas, onde uma lhes apresenta os valores da empresa e um formulário para seguir a diante, logo a tabela de preços e por fim a história de tal estabelecimento.
+ A confecção de tal site, exigiu um trabalho coletivo entre os programadores Miguel Oliveira, Vitor Pereira e Paulo Roberto, só sendo possivel pela experiência e alto nível de ensino do curso Programadores do Futuro, lexionado pela professora Ana Clara.
